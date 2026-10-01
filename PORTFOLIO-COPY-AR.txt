@@ -1,0 +1,27 @@
+عنوان المشروع:
+NovaHealth – تصميم وتطوير واجهة موقع رعاية صحية متجاوب باستخدام React
+
+نبذة:
+مشروع تجريبي لواجهة موقع حديثة لمركز رعاية صحية، تم تصميمه وتطويره مع التركيز على الـResponsive Design وتجربة المستخدم.
+
+دوري:
+Front-End React Developer
+
+ما تم تنفيذه:
+- بناء واجهة حديثة من الصفر.
+- تصميم Responsive يعمل على Desktop / Tablet / Mobile.
+- بناء أقسام الخدمات والأطباء والإحصائيات والحجز والتواصل.
+- تحويل الواجهة إلى Components باستخدام React.
+- إضافة Mobile Navigation.
+- إضافة Light / Dark Mode.
+- إضافة نموذج حجز موعد مع رسالة نجاح تفاعلية (Front-End Demo).
+- تحسين الـSpacing والـAlignment والـUI details.
+
+التقنيات:
+React.js, JavaScript, HTML5, CSS3, Flexbox, CSS Grid, Responsive Web Design, Vite
+
+هدف المشروع:
+إظهار القدرة على بناء Landing Page احترافية ومتجاوبة باستخدام React، مع الاهتمام بالتفاصيل البصرية وتجربة المستخدم.
+
+مهم:
+هذا Mock Project لأغراض الـPortfolio وليس مشروعًا لعميل حقيقي، ونموذج الحجز Front-End فقط ولا يرسل بيانات إلى Backend.
